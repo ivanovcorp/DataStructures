@@ -1,4 +1,4 @@
-package arrayList;
+package e_01_LinearDS;
 
 public class ArrayList<T>{
 

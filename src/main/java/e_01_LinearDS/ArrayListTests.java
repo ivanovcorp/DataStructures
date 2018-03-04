@@ -1,9 +1,10 @@
-package arrayListTests;
+package e_01_LinearDS;
 
-import org.junit.Assert;
+
+
 import org.junit.Test;
 
-import arrayList.ArrayList;;
+import junit.framework.Assert;
 
 public class ArrayListTests {
 
